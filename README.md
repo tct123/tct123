@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is tct123==============================================================================================================================Programmer and socialmedia person---------------------------------* 🌍  I'm based in the World* 🧠  I'm learning Python, React Native* 🤝  I'm open to collaborating on React Native/Python projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is tct123
+==============================================================================================================================
+Programmer and socialmedia person
+---------------------------------*
+🌍  I'm based in the World* 🧠  I'm learning Python, React Native* 🤝  I'm open to collaborating on React Native/Python projects
 
 <a href="https://www.github.com/tct123" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/tct123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/tctdiy_gaming" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/tctdiy_gaming?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.twitch.tv/tcdiy" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitch/status/tcdiy?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
