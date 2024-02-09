@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tct_diy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tct_diy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tctdiy-gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tctdiy-gaming" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19475494/tctdiy-gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19475494/tctdiy-gaming" height="30" width="40" /></a>
 <a href="https://instagram.com/tctdiy_gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tctdiy_gaming" height="30" width="40" /></a>
 <a href="https://medium.com/@tct1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tct1234" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tc-diy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tc-diy" height="30" width="40" /></a>
